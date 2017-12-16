@@ -1,5 +1,3 @@
-
-
 # Importing the dataset
 dset <- read.csv('TRAIN.csv')
 # dataset1 = dataset[1:100]
